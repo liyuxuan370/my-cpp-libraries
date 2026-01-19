@@ -1,2 +1,2 @@
-# my-cpp-libraries
-Awesome C++ libraries by 10-year-old programmer
+# my C plus plus libraries
+Awesome C plus plus libraries by 10-year-old programmer!!!
